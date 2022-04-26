@@ -1,0 +1,70 @@
+@charset "UTF-8";
+.colorBlanco {
+  background-color: white; }
+
+.tipografiaBlanca {
+  color: white; }
+
+.tipografiaAzul {
+  color: #0b0038; }
+
+.tipografiaTamañoParrafo {
+  font-size: 15px; }
+
+.gradientFondo {
+  background-image: linear-gradient(#390024, #0b0038); }
+
+.gradientFondoFooter {
+  background-image: linear-gradient(#0b0038, #390024); }
+
+.colorAzulOscuro {
+  background-color: #0b0038; }
+
+.colorMorado {
+  background-color: #390024; }
+
+.pading {
+  padding: 5%; }
+
+.paddingLeft {
+  padding-left: 300px; }
+
+.paddingRight {
+  padding-right: 50%; }
+
+.bMorado {
+  border-top: solid 5px #390024;
+  border-bottom: solid 5px #390024; }
+
+.margin1 {
+  margin-right: 200px; }
+
+.flexImpresion3d {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center; }
+
+.itemImpresion3d {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 5%; }
+
+.itemMinimundos {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 7%; }
+
+.imagenesCarrusel {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.marginAuto {
+  margin-left: auto;
+  margin-right: auto; }
