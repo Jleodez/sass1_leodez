@@ -1,70 +1,90 @@
 @charset "UTF-8";
 .colorBlanco {
-  background-color: white; }
+  background-color: white;
+}
 
 .tipografiaBlanca {
-  color: white; }
+  color: white;
+}
 
 .tipografiaAzul {
-  color: #0b0038; }
+  color: rgb(11, 0, 56);
+}
 
 .tipografiaTamañoParrafo {
-  font-size: 15px; }
+  font-size: 15px;
+}
 
 .gradientFondo {
-  background-image: linear-gradient(#390024, #0b0038); }
+  background-image: linear-gradient(rgb(57, 0, 36), rgb(11, 0, 56));
+}
 
 .gradientFondoFooter {
-  background-image: linear-gradient(#0b0038, #390024); }
+  background-image: linear-gradient(rgb(11, 0, 56), rgb(57, 0, 36));
+}
 
 .colorAzulOscuro {
-  background-color: #0b0038; }
+  background-color: rgb(11, 0, 56);
+}
 
 .colorMorado {
-  background-color: #390024; }
+  background-color: rgb(57, 0, 36);
+}
 
 .pading {
-  padding: 5%; }
+  padding: 5%;
+}
 
 .paddingLeft {
-  padding-left: 300px; }
+  padding-left: 300px;
+}
 
 .paddingRight {
-  padding-right: 50%; }
+  padding-right: 50%;
+}
 
 .bMorado {
-  border-top: solid 5px #390024;
-  border-bottom: solid 5px #390024; }
+  border-top: solid 5px rgb(57, 0, 36);
+  border-bottom: solid 5px rgb(57, 0, 36);
+}
 
 .margin1 {
-  margin-right: 200px; }
+  margin-right: 200px;
+}
 
 .flexImpresion3d {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-content: center; }
+  align-content: center;
+}
 
 .itemImpresion3d {
   color: white;
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  padding: 5%; }
+  padding: 5%;
+}
 
 .itemMinimundos {
   color: black;
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  padding: 7%; }
+  padding: 7%;
+}
 
 .imagenesCarrusel {
   width: 30%;
   display: block;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+}
 
 .marginAuto {
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=estilo.css.map */
